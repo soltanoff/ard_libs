@@ -46,7 +46,7 @@ private:
 public:
     SoftwareNumpad(
         SoftwareSpeaker *speaker,
-        SoftwareSerial *receiver = nullptr
+        SoftwareSerial *receiver=nullptr
     );
     void getKeyToSerial();
     const char *getBuf() const;
