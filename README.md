@@ -8,7 +8,8 @@ The source code of each library should be placed in separate directory, like
 
 For example, see how can be organized `Foo` and `Bar` libraries:
 
-```|--lib
+```
+|--lib
 |  |--Bar
 |  |  |--docs
 |  |  |--examples
@@ -21,7 +22,8 @@ For example, see how can be organized `Foo` and `Bar` libraries:
 |  |- README.md --> THIS FILE
 |- platformio.ini
 |--src
-   |- main.c```
+   |- main.c
+```
 
 
 
