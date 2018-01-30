@@ -1,5 +1,4 @@
 # Utils
-========================
 
 This module contains auxiliary functions for working with the central unit, as well as with connected third-party devices.
 
