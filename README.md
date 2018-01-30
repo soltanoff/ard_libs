@@ -8,9 +8,9 @@ The source code of each library should be placed in separate directory, like
 
 For example, see how can be organized `Foo` and `Bar` libraries:
 
-|--lib
+`|--lib
 
-|  |--Bar
+|  |--Bar`
 
 |  |  |--docs
 
