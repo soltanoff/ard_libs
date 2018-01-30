@@ -16,4 +16,4 @@ List of keys:
 * Other keys - write them to the end of the buffer.
 
 
-The connection diagram is shown in the file.
+The connection diagram is shown in the [![file](pin-diagram.png).
