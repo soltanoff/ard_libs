@@ -26,6 +26,9 @@ static byte KP_ROWPINS[KP_ROWS] = {13, 12, 11, 10};
 //                                 C1  C2  C3  C4
 static byte KP_COLPINS[KP_COLS] = { 9,  8,  7,  6};
 // =========================================================================
+// TODO: soltanoff: need using interrupt
+// TODO: polinacracker: set hook to main methods of cout/printf (see cgetf(), cputf())
+// FIXME: soltanoff: refactor
 class SoftwareNumpad {
 private:
     String *_buf;
