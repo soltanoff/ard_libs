@@ -1,5 +1,5 @@
 + 1. Write todo :)
-2. GSM-module
++ 2. GSM-module
 + 3. speaker
 + 4. simple numpad
 5. servo motor
@@ -9,3 +9,4 @@
 9. barometer
 10. avrinteract
 11. interrupt controller 
++ 12. liquid lisplay (lcd1602)
