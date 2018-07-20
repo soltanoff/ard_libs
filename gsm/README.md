@@ -1,4 +1,4 @@
-# GSM module: for any device supporting the command.
+# GSM module: for any device supporting the AT command.
 
 I'm use for testing A6 GSM.
 A6 GSM  is introduced by the makers of ESP8266 , AI-THINKER.
